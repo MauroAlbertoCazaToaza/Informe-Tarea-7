@@ -1,5 +1,5 @@
 # Informe-Tarea-7
-# Informe Tarea 7 Capitulos 13 y 14
+
 1. Objetivos   <br />  
 1.1 Objetivo general<br />
 •	Aprender sobre la aplicación de inductores y transformadores dentro de los circuitos ya sean en paralelo o en serie.<br /><br />
